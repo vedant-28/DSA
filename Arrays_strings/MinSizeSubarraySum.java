@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays_strings;
 
 /*
 Sliding window technique: https://www.techinterviewhandbook.org/algorithms/array/#sliding-window
